@@ -1,0 +1,1 @@
+# This site was created with using semantic HTML (BEM), SCSS, JS (mixins,variables).The icons were made in SVG sprite format.  The site is adaptive and responsive, designed according to Figma layout with templates for different devices (pixel perfect).
